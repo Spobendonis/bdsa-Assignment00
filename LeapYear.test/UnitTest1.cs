@@ -20,7 +20,7 @@ public class UnitTest1
         Assert.False(LeapYear.isLeapYear(8010));
     }
 
-        [Fact]
+    [Fact]
     public void Every_100_Years_Not_Leap_Year()
     {
         Assert.False(LeapYear.isLeapYear(100));
@@ -29,5 +29,17 @@ public class UnitTest1
         Assert.False(LeapYear.isLeapYear(1700));
         Assert.False(LeapYear.isLeapYear(1900));
         Assert.False(LeapYear.isLeapYear(2100));
+    }
+
+    [Fact]
+    public void Every_400_Years_Is_Leap_Year()
+    {
+        Assert.True(LeapYear.isLeapYear(0));
+        Assert.True(LeapYear.isLeapYear(400));
+        Assert.True(LeapYear.isLeapYear(800));
+        Assert.True(LeapYear.isLeapYear(1200));
+        Assert.True(LeapYear.isLeapYear(1600));
+        Assert.True(LeapYear.isLeapYear(2000));
+        Assert.True(LeapYear.isLeapYear(2400));
     }
 }
