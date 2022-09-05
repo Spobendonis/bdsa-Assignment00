@@ -1,0 +1,15 @@
+C:\Users\spoor\Desktop\Software\C#\Assignments\bdsa-Assignment00.3\LeapYear\obj\Debug\net6.0\LeapYear.csproj.AssemblyReference.cache
+C:\Users\spoor\Desktop\Software\C#\Assignments\bdsa-Assignment00.3\LeapYear\obj\Debug\net6.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spoor\Desktop\Software\C#\Assignments\bdsa-Assignment00.3\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfoInputs.cache
+C:\Users\spoor\Desktop\Software\C#\Assignments\bdsa-Assignment00.3\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfo.cs
+C:\Users\spoor\Desktop\Software\C#\Assignments\bdsa-Assignment00.3\LeapYear\obj\Debug\net6.0\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\spoor\Desktop\Software\C#\Assignments\bdsa-Assignment00.3\LeapYear\bin\Debug\net6.0\LeapYear.exe
+C:\Users\spoor\Desktop\Software\C#\Assignments\bdsa-Assignment00.3\LeapYear\bin\Debug\net6.0\LeapYear.deps.json
+C:\Users\spoor\Desktop\Software\C#\Assignments\bdsa-Assignment00.3\LeapYear\bin\Debug\net6.0\LeapYear.runtimeconfig.json
+C:\Users\spoor\Desktop\Software\C#\Assignments\bdsa-Assignment00.3\LeapYear\bin\Debug\net6.0\LeapYear.dll
+C:\Users\spoor\Desktop\Software\C#\Assignments\bdsa-Assignment00.3\LeapYear\bin\Debug\net6.0\ref\LeapYear.dll
+C:\Users\spoor\Desktop\Software\C#\Assignments\bdsa-Assignment00.3\LeapYear\bin\Debug\net6.0\LeapYear.pdb
+C:\Users\spoor\Desktop\Software\C#\Assignments\bdsa-Assignment00.3\LeapYear\obj\Debug\net6.0\LeapYear.dll
+C:\Users\spoor\Desktop\Software\C#\Assignments\bdsa-Assignment00.3\LeapYear\obj\Debug\net6.0\ref\LeapYear.dll
+C:\Users\spoor\Desktop\Software\C#\Assignments\bdsa-Assignment00.3\LeapYear\obj\Debug\net6.0\LeapYear.pdb
+C:\Users\spoor\Desktop\Software\C#\Assignments\bdsa-Assignment00.3\LeapYear\obj\Debug\net6.0\LeapYear.genruntimeconfig.cache
