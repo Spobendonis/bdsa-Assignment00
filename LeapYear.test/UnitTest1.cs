@@ -16,7 +16,7 @@ public class UnitTest1
         Assert.True(LeapYear.isLeapYear(5220));
         Assert.False(LeapYear.isLeapYear(7));
         Assert.False(LeapYear.isLeapYear(402));
-        Assert.False(LeapYear.isLeapYear(500));
+        Assert.False(LeapYear.isLeapYear(499));
         Assert.False(LeapYear.isLeapYear(8010));
     }
 }

@@ -5,6 +5,10 @@ public class LeapYear {
 
     }
     public static bool isLeapYear(int year) {
-        throw new NotImplementedException();
+        var leapYear = false;
+        if(year % 4 == 0) {
+            leapYear = !leapYear;
+        }
+        return leapYear;
     }
 }
