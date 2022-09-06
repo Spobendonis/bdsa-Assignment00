@@ -8,6 +8,9 @@ This is the handin for bdsa Assignment 00. Run in the terminal:
 </ul>
 
 Here is a UML Diagram of the algorithm implemented to solve the problem (Some steps are removed since they are impossible to achieve, ie not being divisible by 4, yet being divisible by 400)
+<img src="res\UML_Leap_Year.png">
+
+//src
 :::mermaid
 flowchart LR;
     Start-->id1{Divisible By 4?}--Yes-->id2{Divisible 100?}--No-->id3(Leap Year)
