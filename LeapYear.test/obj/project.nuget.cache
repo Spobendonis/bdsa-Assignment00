@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XLTcPtKd9KJ7V1FkBak94XlCMnj75yA3Z4GjzA+haGf79873N/27bjJ15hO6elXptmgl8wW9IDbIaJAkGULTpA==",
+  "dgSpecHash": "yvddQFER4yzQ/TsRxCU5JSpmVdI+nlllcI1OEzupAKuKeQj/JxstzB6p6eFRveg6PpzMHeZX+vO3APeWxt2jOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\spoor\\Desktop\\Software\\C#\\Assignments\\bdsa-Assignment00.3\\LeapYear.test\\LeapYear.test.csproj",
+  "projectFilePath": "c:\\Users\\spoor\\Desktop\\Software\\C#\\Assignments\\bdsa-Assignment00.3\\LeapYear.test\\LeapYear.test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spoor\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\spoor\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
