@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\spoor\\Desktop\\Software\\C#\\Assignments\\bdsa-Assignment00.3\\LeapYear\\LeapYear.csproj": {}
+    "c:\\Users\\spoor\\Desktop\\Software\\C#\\Assignments\\bdsa-Assignment00.3\\LeapYear\\LeapYear.csproj": {}
   },
   "projects": {
-    "C:\\Users\\spoor\\Desktop\\Software\\C#\\Assignments\\bdsa-Assignment00.3\\LeapYear\\LeapYear.csproj": {
+    "c:\\Users\\spoor\\Desktop\\Software\\C#\\Assignments\\bdsa-Assignment00.3\\LeapYear\\LeapYear.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spoor\\Desktop\\Software\\C#\\Assignments\\bdsa-Assignment00.3\\LeapYear\\LeapYear.csproj",
+        "projectUniqueName": "c:\\Users\\spoor\\Desktop\\Software\\C#\\Assignments\\bdsa-Assignment00.3\\LeapYear\\LeapYear.csproj",
         "projectName": "LeapYear",
-        "projectPath": "C:\\Users\\spoor\\Desktop\\Software\\C#\\Assignments\\bdsa-Assignment00.3\\LeapYear\\LeapYear.csproj",
+        "projectPath": "c:\\Users\\spoor\\Desktop\\Software\\C#\\Assignments\\bdsa-Assignment00.3\\LeapYear\\LeapYear.csproj",
         "packagesPath": "C:\\Users\\spoor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spoor\\Desktop\\Software\\C#\\Assignments\\bdsa-Assignment00.3\\LeapYear\\obj\\",
+        "outputPath": "c:\\Users\\spoor\\Desktop\\Software\\C#\\Assignments\\bdsa-Assignment00.3\\LeapYear\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
